@@ -190,7 +190,7 @@ def solve_and_export(suite: str):
 # ------------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    DEV_MODE = True
+    DEV_MODE = False
 
     # ------------------------------------------------------------------
     # STEP 1 : ACQUISITION DES COULEURS (CAMERA OU MOCK)
