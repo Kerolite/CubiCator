@@ -5,9 +5,9 @@
 
 | Role | Contributor |
 |------|-------------|
-| Code & Electronics | Solo |
-| Mathematics (Kociemba, cube model) | × 2 |
-| CAD & Mechanics | × 2 (incl. code/electronics lead) |
+| Code & Electronics | Kerolite |
+| Mathematics (Kociemba, cube model) | PE and Matheo |
+| CAD & Mechanics | Kerolite and Adrien (incl. code/electronics lead) |
 
 ## How it works
 
